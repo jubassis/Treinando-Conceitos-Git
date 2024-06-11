@@ -1,6 +1,5 @@
-#Adicionando mudanças (git add)# 
-Para verificar se está no terminal correto para efetuar mudanças ou inclusos é sempre bom efetuar antes
-o comando do git status (o git status ttambém mostra os arquivos que estão disponíveis para ser adiocionado)
+#Adicionando mudanças (git add)# para verificar se está no terminal correto para efetuar mudanças ou inclusoes é sempre bom efetuar anteso comando = git status (o git status também mostra os arquivos que estão disponíveis para ser adiocionado).
+
 Para adicionar o arquivo : git add arquivo.py (nome do arquivo e o formato dele, ex: txt, yaml,py).
 Para conferir o arquivo adiocionado, basta novamente efetuar o "git status". O git mostrar o arquivo que antes estava em vermelho
 na cor verde. (Adicionado)
